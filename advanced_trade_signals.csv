@@ -1,0 +1,6 @@
+action,class_code,sec_code,quantity,price,order_type,account,client_code,time
+buy,TQBR,SBER,10,250.50,limit,123456789,CLIENT001,09:55:00
+sell,TQBR,GAZP,5,150.75,limit,123456789,CLIENT001,09:56:00
+buy,TQBR,LKOH,2,4500.00,market,123456789,CLIENT001,09:57:00
+sell,TQBR,SBER,5,255.00,stop,123456789,CLIENT001,09:58:00
+buy,TQBR,VTBR,100,65.30,limit,123456789,CLIENT001,09:59:00

@@ -1,0 +1,4 @@
+action,class_code,sec_code,quantity,price,account,client_code
+buy,TQBR,SBER,10,250.50,123456789,CLIENT001
+sell,TQBR,GAZP,5,150.75,123456789,CLIENT001
+buy,TQBR,LKOH,2,4500.00,123456789,CLIENT001
